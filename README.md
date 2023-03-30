@@ -1,7 +1,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkoDjuric)](https://github.com/MarkoDjuric/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MarkoDjuric)](https://git.io/streak-stats)
 
 
 
